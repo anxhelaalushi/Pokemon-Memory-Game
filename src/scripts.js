@@ -43,7 +43,7 @@ function unflipCards() {
     secondCard.classList.remove("flip");
 
     resetBoard();
-  }, 2500);
+  }, 1500);
 }
 
 function resetBoard() {
